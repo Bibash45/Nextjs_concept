@@ -1,6 +1,9 @@
-## Node Version
+It's me Bibash Chaudhary .
+Studied at Dinesh Ramji Memorial Polytechnic institude. ( sindupalchok ,chautara )
+Address: kalanki, Kathmandu
 
-The minimum Node.js version has been bumped from 16.14 to 18.17, since 16.x has reached end-of-life.
+
+
 
 ## Create Next App
 
