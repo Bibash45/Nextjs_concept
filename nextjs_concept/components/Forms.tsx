@@ -1,9 +1,7 @@
-import React from "react";
+"use client";
 
-const createUser = async () => {
-  "use server";
-  console.log("creating user....");
-};
+import React from "react";
+import { createUser } from "@/utils/actions";
 
 const Forms = () => {
   return (
@@ -20,7 +18,7 @@ const Forms = () => {
       <input
         className={inputStyle}
         type="text"
-        name="firstname"
+        name="lastname"
         placeholder="enter last name"
         defaultValue="Chaudhary"
       />

@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const UserList = () => {
-  return (
-    <h3 className='text-xl'>UserList</h3>
-  )
-}
+  return <h3 className="text-xl">UserList</h3>;
+};
 
-export default UserList
+export default UserList;
