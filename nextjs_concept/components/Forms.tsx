@@ -25,7 +25,7 @@ const Forms = () => {
         defaultValue="Chaudhary"
       />
       <button type="submit" className={btnStyle}>
-        submit
+        SUBMIT
       </button>
     </form>
   );
